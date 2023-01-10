@@ -1,3 +1,4 @@
-[submodule "src/aports"]
+[submodule "src/aports/"]
+	url = https://github.com/aymericDD/aports.git
 	path = src/aports
-	url = https://github.com/alpinelinux/aports.git
+	branch = v3.16.2-dd
