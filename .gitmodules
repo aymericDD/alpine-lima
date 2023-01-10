@@ -1,4 +1,4 @@
-[submodule "src/aports/"]
-	url = https://github.com/aymericDD/aports.git
-	path = src/aports
+[submodule "src/aports"]
+        path = src/aports
+        url = https://github.com/aymericDD/aports.git
 	branch = v3.16.2-dd
